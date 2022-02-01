@@ -1,1 +1,7 @@
-{"0": "Background", "1": "Crack", "2": "Spalling", "3": "Efflorescence", "4": "ExposedReBar", "5": "CorrosionStain"}
+{
+	"codebrim_balanced": {
+		"0": "Background", "1": "Crack", "2": "Spalling",
+		"3": "Efflorescence", "4": "ExposedReBar", "5": "CorrosionStain"},
+	"mcds_Bikit": {
+		"0": "Crack", "1": "Efflorescence", "2": "ExposedReinforcement", "3": "General",
+		"4": "NoDefect", "5": "RustStaining", "6": "Scaling", "7": "Spalling"}}
