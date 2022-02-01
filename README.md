@@ -5,6 +5,8 @@ Repo to demonstrate how to use baselines from bikit and dacl.ai.
 |<p align="mid"><img src="assets/11_001990.jpg" alt="drawing" width="300"/></p>|<p align="mid"><img src="assets/11_008121.jpg" alt="drawing" width="300"/></p>|
 |:--:|:--:| 
 |<p align="mid"><img src="assets/11_010057.jpg" alt="drawing" width="300"/></p>|<p align="mid"><img src="assets/11_010332.jpg" alt="drawing" width="300"/></p>|
+
+
 ***Examples of images representing detectable damage with available dacl-models.** Crack (Top left); Spalling, Effloresence, BarsExposed, Rust (Top right); Crack, Efflorescence (Bottom left); Spalling, Effloresence, BarsExposed, Rust (Bottom right)*
 
 ## Available Models
