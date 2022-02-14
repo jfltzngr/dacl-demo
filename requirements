@@ -1,0 +1,7 @@
+jupyter
+numpy > 1.20
+torch
+torchvision
+Pillow
+matplotlib
+efficientnet_pytorch

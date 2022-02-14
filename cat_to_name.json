@@ -4,14 +4,5 @@
 		"3": "Efflorescence", "4": "ExposedReBar", "5": "CorrosionStain"},
 	"mcds_Bikit": {
 		"0": "Crack", "1": "Efflorescence", "2": "ExposedReinforcement", "3": "General",
-		"4": "NoDefect", "5": "RustStaining", "6": "Scaling", "7": "Spalling"},
-	"meta2": {
-		"0": "NoDamage", "1": "Crack", "2": "Efflorescence", "3": "Spalling",
-		"4": "BarsExposed", "5": "Rust"},
-	"meta3": {
-		"0": "NoDamage", "1": "Crack", "2": "Efflorescence", "3": "Spalling",
-		"4": "BarsExposed", "5": "Rust"},
-	"meta4": {
-		"0": "NoDamage", "1": "Crack", "2": "Efflorescence", "3": "Spalling",
-		"4": "BarsExposed", "5": "Rust"}
+		"4": "NoDefect", "5": "RustStaining", "6": "Scaling", "7": "Spalling"}
 }
