@@ -1,4 +1,5 @@
 jupyter
+pathlib
 numpy > 1.20
 torch
 torchvision

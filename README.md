@@ -1,17 +1,29 @@
 # dacl-demo
 
-*dacl-demo* is a tutorial repo to demonstrate how to use baselines from [*dacl.ai*](https://dacl.ai) or rather [*bikit*](https://github.com/phiyodr/building-inspection-toolkit) for inference. As soon as you have installed the requirements you can unleash the whole dacl power inside the jupyter notebook `demo.ipynb`.
+*dacl-demo* is a tutorial repo to demonstrate how to use baselines from [*bikit*](https://github.com/phiyodr/building-inspection-toolkit) or rather [*dacl.ai*](https://dacl.ai) for inference to tackle the problem of damage recognition on built structures. 
 
-Feel free to load different images into the assets directory and evaluate the *dacl* models on your own data!
+[***bikit***](https://github.com/phiyodr/building-inspection-toolkit) is a simple to use data hub containing relevant open-source datasets in the field of damage recognition. The *bikit's* datasets are enriched with evaluation splits and predefined metrics, suiting the specific task and their data distribution. The according paper is available [here](https://arxiv.org/abs/2202.07012).
 
-|<p align="mid"><img src="assets/11_001990.jpg" alt="drawing" width="300"/></p>|<p align="mid"><img src="assets/11_008121.jpg" alt="drawing" width="300"/></p>|
+[***dacl.ai***](https://dacl.ai) provides a leaderboard and the most important metrics for the baselines in this field.
+In addition, it endorses damage recognition enthusiasts to train models on available data by themselves and to submit the results. 
+
+
+## Usage
+
+As soon as you have installed the requirements listed in `requirements.txt` you can unleash the whole dacl power inside the jupyter notebook `demo.ipynb`. Inside the notebook every step will be explained in detail. 
+
+Feel free to load different images into the DamageExample directory and evaluate the *dacl* models on your own data!
+
+|<p align="mid"><img src="assets/DamageExamples/11_001990.jpg" alt="drawing" width="300"/></p>|<p align="mid"><img src="assets/DamageExamples/11_008121.jpg" alt="drawing" width="300"/></p>|
 |:--:|:--:| 
-|<p align="mid"><img src="assets/11_010057.jpg" alt="drawing" width="300"/></p>|<p align="mid"><img src="assets/11_010332.jpg" alt="drawing" width="300"/></p>|
+|<p align="mid"><img src="assets/DamageExamples/11_010057.jpg" alt="drawing" width="300"/></p>|<p align="mid"><img src="assets/DamageExamples/11_010332.jpg" alt="drawing" width="300"/></p>|
 
 
-***Examples of images representing detectable damage with available dacl-models.** Crack (Top left); Spalling, Effloresence, BarsExposed, Rust (Top right); Crack, Efflorescence (Bottom left); Spalling, Effloresence, BarsExposed, Rust (Bottom right)*
+***Examples of images representing detectable damage with available dacl-models.** Crack (Top left); Spalling, Effloresence, Rust (Top right); Crack, Efflorescence (Bottom left); Spalling, Effloresence, BarsExposed, Rust (Bottom right)*
 
 ## Available Models
+
+The available models are displayed in the table below. They are sorted according to the exact-match-ratio (EMR), which is the most important metric for multi-target classification. Further information reagarding the modes and the metrics may be found [here](https://dacl.ai/bikit.html) and [here](https://arxiv.org/abs/2202.07012).
 
 | Modelname             | Dataset           | EMR   | F1   | Tag          | Checkpoint                |CorrespNameOnBikit*                   |
 |-----------------------|-------------------|-------|------|--------------|---------------------------|--------------------------------------|
