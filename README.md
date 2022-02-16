@@ -23,7 +23,7 @@ Feel free to load different images into the DamageExample directory and evaluate
 
 ## Available Models
 
-The available models are displayed in the table below. They are sorted according to the exact-match-ratio (EMR), which is the most important metric for multi-target classification. Further information reagarding the modes and the metrics may be found [here](https://dacl.ai/bikit.html) and [here](https://arxiv.org/abs/2202.07012).
+The available models are displayed in the table below. They are sorted according to the Exact Match Ratio (EMR), which is the most important metric for multi-target classification. Further information reagarding the models and the metrics may be found [here](https://dacl.ai/bikit.html) and [here](https://arxiv.org/abs/2202.07012).
 
 | Modelname             | Dataset           | EMR   | F1   | Tag          | Checkpoint                |CorrespNameOnBikit*                   |
 |-----------------------|-------------------|-------|------|--------------|---------------------------|--------------------------------------|
