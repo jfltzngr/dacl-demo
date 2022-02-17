@@ -1,6 +1,6 @@
 # dacl-demo
 
-*dacl-demo* is a tutorial repo to demonstrate how to use baselines from [*bikit*](https://github.com/phiyodr/building-inspection-toolkit) or rather [*dacl.ai*](https://dacl.ai) for inference to tackle the problem of damage recognition on built structures. 
+*dacl-demo* is a tutorial repo to demonstrate how to use baselines from [*bikit*](https://github.com/phiyodr/building-inspection-toolkit) or rather [*dacl.ai*](https://dacl.ai) for inference to tackle the problem of damage recognition on built structures.
 
 [***bikit***](https://github.com/phiyodr/building-inspection-toolkit) is a simple to use data hub containing relevant open-source datasets in the field of damage recognition. The *bikit's* datasets are enriched with evaluation splits and predefined metrics, suiting the specific task and their data distribution. The according paper is available [here](https://arxiv.org/abs/2202.07012).
 
@@ -23,7 +23,7 @@ Feel free to load different images into the DamageExample directory and evaluate
 
 ## Available Models
 
-The available models are displayed in the table below. They are sorted according to the Exact Match Ratio (EMR), which is the most important metric for multi-target classification. Further information reagarding the models and the metrics may be found [here](https://dacl.ai/bikit.html) and [here](https://arxiv.org/abs/2202.07012).
+The available models are displayed in the table below. They are sorted according to the Exact Match Ratio (EMR), which is the most important metric for multi-target classification. Further information reagarding the models and the metrics may be found on [dacl.ai](https://dacl.ai/bikit.html) and the [*bikit*-paper](https://arxiv.org/abs/2202.07012).
 
 | Modelname             | Dataset           | EMR   | F1   | Tag          | Checkpoint                |CorrespNameOnBikit*                   |
 |-----------------------|-------------------|-------|------|--------------|---------------------------|--------------------------------------|
