@@ -1,6 +1,6 @@
 # dacl-demo
 
-*dacl-demo* is a tutorial repo to demonstrate how to use baselines from [*bikit*](https://github.com/phiyodr/building-inspection-toolkit) or rather [*dacl.ai*](https://dacl.ai) for inference to tackle the problem of damage recognition on built structures.
+*dacl-demo* is a tutorial repo to demonstrate how to use baselines from [*bikit*](https://github.com/phiyodr/building-inspection-toolkit) or rather [*dacl.ai*](https://dacl.ai) for inference in order to tackle the problem of damage recognition on built structures together.
 
 [***bikit***](https://github.com/phiyodr/building-inspection-toolkit) is a simple to use data hub containing relevant open-source datasets in the field of damage recognition. The *bikit's* datasets are enriched with evaluation splits and predefined metrics, suiting the specific task and their data distribution. The according paper is available [here](https://arxiv.org/abs/2202.07012).
 
