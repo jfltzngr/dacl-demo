@@ -1,8 +1,14 @@
 jupyter
 pathlib
 numpy > 1.20
+pandas
 torch
 torchvision
-Pillow
-matplotlib
+torchmetrics
 efficientnet_pytorch
+Pillow
+opencv-python-headless # opencv-python
+matplotlib
+requests
+patool
+tqdm
