@@ -56,3 +56,5 @@ The available models are displayed in the table below. They are sorted according
 Check out the original poster [here](https://www.researchgate.net/publication/362592830_Become_Part_of_daclai_Develop_Machine_Learning_Models_for_Damage_Recognition_on_Built_Structures)!
 
 <img src="assets\DaclPoster.png" alt="drawing" width="800"/>
+
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
