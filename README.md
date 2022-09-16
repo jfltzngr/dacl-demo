@@ -50,3 +50,9 @@ The available models are displayed in the table below. They are sorted according
 ├── README.md
 └── requirements.txt
 ```
+
+<object data="./DaclPoster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="DaclPoster.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
