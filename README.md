@@ -5,7 +5,7 @@
 [***bikit***](https://github.com/phiyodr/building-inspection-toolkit) is a simple to use data hub containing relevant open-source datasets in the field of damage recognition. The *bikit's* datasets are enriched with evaluation splits and predefined metrics, suiting the specific task and their data distribution. The according paper is available [here](https://arxiv.org/abs/2202.07012).
 
 [***dacl.ai***](https://dacl.ai) provides a leaderboard and the most important metrics for the baselines in this field.
-In addition, it endorses damage recognition enthusiasts to train models on available data by themselves and to submit the results. 
+In addition, it endorses damage recognition enthusiasts to train models on available data by themselves and to submit the results. Also, check out the [poster](#poster).
 
 
 ## Usage
@@ -51,11 +51,8 @@ The available models are displayed in the table below. They are sorted according
 └── requirements.txt
 ```
 
+## Poster
 
+Check out the original poster [here](https://www.researchgate.net/publication/362592830_Become_Part_of_daclai_Develop_Machine_Learning_Models_for_Damage_Recognition_on_Built_Structures)!
 
-<object data="http://www.africau.edu/images/default/sample.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://www.africau.edu/images/default/sample.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.africau.edu/images/default/sample.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+<img src="assets\DaclPoster.png" alt="drawing" width="800"/>
