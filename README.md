@@ -51,4 +51,4 @@ The available models are displayed in the table below. They are sorted according
 └── requirements.txt
 ```
 
-<embed src="DaclPoster.pdf" type="application/pdf" widht="50%">
+<embed src="./DaclPoster.pdf" type="application/pdf" widht="50%">
